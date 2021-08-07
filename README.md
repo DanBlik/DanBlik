@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![DanBlik's GitHub stats](https://github-readme-stats.vercel.app/api?username=danblik&count_private=true)
 
+![Danblik's codewars stats](https://www.codewars.com/users/DanBlik/badges/large)
+
 <!--
 **DanBlik/DanBlik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
