@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+Hi there, I’m Danila Blikov a Frontend Developer, I specialize in React apps, CSS and HTML. In addition, I work with CSS preprocessors like SASS. I am interested in building innovative interfaces which proved the best user experience possible.
 ![Danblik's codewars stats](https://www.codewars.com/users/DanBlik/badges/large)
 
 ![DanBlik's GitHub stats](https://github-readme-stats.vercel.app/api?username=danblik&count_private=true)
